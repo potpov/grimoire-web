@@ -99,7 +99,7 @@ body {
     border-radius: 10px !important;
 }
 
-.publication-video iframe {
+.publication-video video {
     position: absolute;
     top: 0;
     left: 0;
@@ -132,6 +132,3 @@ body {
 .eql-cntrb { 
   font-size: smaller;
 }
-
-
-
